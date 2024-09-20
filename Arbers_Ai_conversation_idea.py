@@ -11,7 +11,7 @@ import uuid  # For generating unique file names
 import re  # For flexible language request detection
 
 # Set up OpenAI API key
-openai.api_key = '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'
+openai.api_key = ''
 
 # Initialize the speech recognizer
 recognizer = sr.Recognizer()
